@@ -10,7 +10,7 @@ This repository is for the Version Control Essentials class at FVTC.
 2. Find the markdown file for your class and add your name to the list of students. The format should be:
 
 ```markdown
-- [Your Name](https://github.com/yourusername) - A brief description of yourself or your interests.
+- [Kevin Person](https://github.com/KPgittogether-sofdev) - Served my country before injuring my knee and I love sports especially the Bucks, Brewers, and the Patriots(crazy)
 ```
 
 3. Commit your changes and push them to your forked repository.
